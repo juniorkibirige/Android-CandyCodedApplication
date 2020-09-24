@@ -12,6 +12,7 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -97,6 +98,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -178,6 +195,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -202,12 +220,20 @@
       <option name="project" value="LOCAL" />
       <updated>1600951687312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished Step Two">
+      <created>1600952295074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600952295074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished Step One" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Step One" />
+    <MESSAGE value="Finished Step Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Step Two" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -221,29 +247,29 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="560" y="289" width="472" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/72.27.1294.741@72.27.1294.741" timestamp="1600950186999" />
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1600951686588">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1600952294822">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1600951686588" />
-    <state width="1248" height="266" key="GridCell.Tab.0.bottom" timestamp="1600952273122">
+    <state x="189" y="27" width="1050" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1600952294822" />
+    <state width="1248" height="266" key="GridCell.Tab.0.bottom" timestamp="1600952571024">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="266" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1600952273122" />
-    <state width="1248" height="266" key="GridCell.Tab.0.center" timestamp="1600952273122">
+    <state width="1248" height="266" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1600952571024" />
+    <state width="1248" height="266" key="GridCell.Tab.0.center" timestamp="1600952571023">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="266" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1600952273122" />
-    <state width="1248" height="266" key="GridCell.Tab.0.left" timestamp="1600952273121">
+    <state width="1248" height="266" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1600952571023" />
+    <state width="1248" height="266" key="GridCell.Tab.0.left" timestamp="1600952571022">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="266" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1600952273121" />
-    <state width="1248" height="266" key="GridCell.Tab.0.right" timestamp="1600952273122">
+    <state width="1248" height="266" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1600952571022" />
+    <state width="1248" height="266" key="GridCell.Tab.0.right" timestamp="1600952571023">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1248" height="266" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1600952273122" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600951689452">
+    <state width="1248" height="266" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1600952571023" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600952299071">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1600951689452" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1600952299071" />
   </component>
 </project>
